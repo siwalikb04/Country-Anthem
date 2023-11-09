@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"/>
+    <item
+        android:id="@+id/location"
+        android:title="location"
+        app:showAsAction="always"
+        android:icon="@drawable/twotone_not_listed_location_24"/>
+    <item
+        android:id="@+id/like"
+        android:icon="@drawable/heart_android"
+        android:title="Like"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/supriseMe"
+        android:title="Suprise Me!" />
+
+</menu>

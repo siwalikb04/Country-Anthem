@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Country Anthem</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>USA</item>
+        <item>France</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+        <item>Japan</item>
+        <item>Brazil</item>
+        <item>South Africa</item>
+        <item>Russia</item>
+        <item>Australia</item>
+    </string-array>
+    <string-array name="anthems">
+        <item>Jana Gana Mana</item>
+        <item>The Star-Spangled Banner</item>
+        <item>La Marseillaise</item>
+        <item>God Save the Queen</item>
+        <item>O Canada</item>
+        <item>Kimigayo</item>
+        <item>Hino Nacional Brasileiro</item>
+        <item>National Anthem of South Africa</item>
+        <item>State Anthem of the Russian Federation</item>
+        <item>Advance Australia Fair</item>
+    </string-array>
+    <string-array name="description">
+        <item>"Jana Gana Mana" is a hymn to the motherland and expresses pride in India\'s rich cultural heritage and diversity. It was written by Rabindranath Tagore.</item>
+        <item>"The Star-Spangled Banner" is a patriotic song written by Francis Scott Key during the War of 1812. It celebrates the resilience and determination of the American people in defending their country and their flag.</item>
+        <item>"La Marseillaise" is one of the most famous anthems in the world, known for its powerful and revolutionary lyrics. It was written during the French Revolution and conveys the spirit of freedom and national pride.</item>
+        <item>"God Save the Queen/King" is the national anthem of the United Kingdom. It is a traditional and solemn anthem that pays tribute to the reigning monarch and expresses loyalty to the country.</item>
+        <item>O Canada" is a beautiful and melodic anthem that celebrates the natural beauty and cultural diversity of Canada. It reflects the country's values of unity and peace.</item>
+        <item>"Kimigayo" is one of the world\'s oldest national anthems, with lyrics that date back to the 9th century. It conveys a sense of patriotism and love for the Japanese emperor.</item>
+        <item>"Hino Nacional Brasileiro" is a passionate and stirring anthem that expresses love for Brazil and its history. It reflects the country\'s strength and resilience.</item>
+        <item>South Africa\'s national anthem is unique, combining two songs, one in Zulu and one in Afrikaans, to promote unity and reconciliation among the diverse population of the country.</item>
+        <item>The Russian national anthem, with its stirring melody and lyrics, reflects the grandeur and history of Russia. It emphasizes unity and patriotism.</item>
+        <item>"Advance Australia Fair" is an uplifting anthem that celebrates Australia\'s natural beauty, history, and unity. It expresses a sense of hope for the nation\'s future.</item>
+
+    </string-array>
+
+</resources>
